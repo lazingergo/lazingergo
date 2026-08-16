@@ -1,4 +1,7 @@
-## Hi there 👋
+I am a Computer Science student at Babeș-Bolyai University, passionate about backend development, low-level programming, and clean software architecture. I enjoy building efficient, secure, and scalable systems.
+
+## Tech Stack
+* **Languages:** C++, C, x86 Assembly, Python, Java, Julia, C#, Haskell, Clean
 
 <!--
 **lazingergo/lazingergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
